@@ -1,0 +1,10 @@
+python-dotenv
+pandas
+fastapi
+uvicorn
+python-multipart
+modal-client
+ipykernel
+openai
+requests-oauthlib
+azure-data-tables
